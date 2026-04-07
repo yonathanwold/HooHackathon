@@ -1,0 +1,16 @@
+part_name,color,x,y,z
+Brick 1 x 2,brown,0,0,0
+Brick 1 x 2,brown,0,0,24
+Brick 1 x 2,brown,0,0,48
+Brick 1 x 2,brown,0,0,72
+Brick 1 x 2,brown,0,0,96
+Brick 1 x 2,brown,0,0,120
+Brick 4 x 4,green,0,0,144
+Brick 2 x 2,green,-40,-40,168
+Brick 2 x 2,green,-40,0,168
+Brick 2 x 2,green,-40,40,168
+Brick 2 x 2,green,0,-40,168
+Brick 2 x 2,green,0,40,168
+Brick 2 x 2,green,40,-40,168
+Brick 2 x 2,green,40,0,168
+Brick 2 x 2,green,40,40,168

@@ -1,0 +1,258 @@
+extends ../layout
+
+block content
+  .pb-2.mt-2.mb-4.border-bottom
+    h2
+      i.fas.fa-cubes.fa-sm.me-2
+      | AI LEGO Builder
+
+  p.lead Provide a prompt and an optional image. The AI will generate an LDraw .ldr mosaic and open it in LeoCAD.
+
+  if info
+    .alert.alert-info(role='alert') #{info}
+
+  if error
+    .alert.alert-danger(role='alert') #{error}
+
+  ul.nav.nav-tabs.mb-3(role='tablist')
+    li.nav-item(role='presentation')
+      button#tab-leocad.nav-link.active(type='button', role='tab', data-bs-toggle='tab', data-bs-target='#pane-leocad', aria-controls='pane-leocad', aria-selected='true')
+        | LeoCAD Builder
+    li.nav-item(role='presentation')
+      button#tab-hackathon.nav-link(type='button', role='tab', data-bs-toggle='tab', data-bs-target='#pane-hackathon', aria-controls='pane-hackathon', aria-selected='false')
+        | Hackathon Prompt
+
+  .tab-content
+    #pane-leocad.tab-pane.fade.show.active(role='tabpanel', aria-labelledby='tab-leocad')
+      .row.g-3
+        .col-md-7
+          .card
+            .card-body
+              if partsInfo
+                .alert.alert-secondary.py-2.small.mb-3 #{partsInfo}
+              form(method='POST', action='/ai/lego-builder', enctype='multipart/form-data')
+                input(type='hidden', name='_csrf', value=_csrf)
+                if demoMode
+                  input(type='hidden', name='demoMode', value='1')
+                if demoType
+                  input(type='hidden', name='demoType', value=demoType)
+                if demoType === 'stack'
+                  input(type='hidden', name='stackCount', value=stackCount || '5')
+                  input(type='hidden', name='stackColor', value=stackColor || 'blue')
+
+                .mb-3
+                  label.form-label(for='prompt') Prompt
+                  textarea#prompt.form-control(name='prompt', rows='4', maxlength='800', placeholder='e.g., A pixel-art dragon with blue wings') #{prompt}
+
+                .mb-3
+                  label.form-label(for='image') Reference Image
+                  input#image.form-control(type='file', name='image', accept='image/*')
+                  .form-text Optional. Use a clear, high-contrast image for better results.
+
+                .mb-3
+                  label.form-label(for='size') Mosaic Size (studs)
+                  input#size.form-control(type='text', name='size', value=size, placeholder='e.g., 32x32')
+                  .form-text Default is 32x32. You can also include the size in the prompt.
+
+                .mb-3
+                  label.form-label(for='axisUp') Vertical Axis (LeoCAD)
+                  select#axisUp.form-select(name='axisUp')
+                    option(value='Z', selected=axisUp === 'Z') Z (matches your LeoCAD view)
+                    option(value='Y', selected=axisUp === 'Y') Y
+                    option(value='X', selected=axisUp === 'X') X
+
+                button.btn.btn-primary(type='submit')
+                  i.fas.fa-hammer.me-2
+                  | Generate + Build In LeoCAD
+
+                button.btn.btn-outline-secondary.ms-2(type='submit', formmethod='get', formnovalidate, formaction=`/ai/lego-builder/scan-parts?profile=${profileName}&axisUp=${axisUp}`)
+                  i.fas.fa-database.me-2
+                  | Scan Parts Library
+
+                button.btn.btn-outline-secondary.ms-2(type='submit', formmethod='get', formnovalidate, formaction=`/ai/lego-builder/demo?profile=${profileName}&axisUp=${axisUp}`)
+                  i.fas.fa-dice.me-2
+                  | Demo Random Build
+
+                button.btn.btn-outline-secondary.ms-2(type='submit', formmethod='get', formnovalidate, formaction=`/ai/lego-builder/demo-tree?profile=${profileName}&axisUp=${axisUp}`)
+                  i.fas.fa-tree.me-2
+                  | Demo Tree Build
+                button.btn.btn-outline-secondary.ms-2(type='submit', formmethod='get', formnovalidate, formaction=`/ai/lego-builder/demo-stack?profile=${profileName}&axisUp=${axisUp}`)
+                  i.fas.fa-bars-staggered.me-2
+                  | Demo Stack Build
+
+                button.btn.btn-outline-secondary.ms-2(type='submit', formmethod='get', formnovalidate, formaction=`/ai/lego-builder/demo-1477?profile=${profileName}&axisUp=${axisUp}`)
+                  i.fas.fa-flag-checkered.me-2
+                  | Demo 1477 Race Car
+
+      if autoRun
+        script.
+          (function () {
+            const form = document.querySelector('form');
+            if (!form) return;
+            setTimeout(() => form.submit(), 250);
+          })();
+
+        .col-md-5
+          .card
+            .card-body
+              h4.card-title
+                i.fas.fa-cube.me-2
+                | Result
+
+              if result
+                p.mb-1
+                  strong File:
+                  a.ms-2(href=result.fileUrl, target='_blank') #{result.fileName}
+                if result.csvUrl
+                  p.mb-1
+                    strong Live CSV:
+                    a.ms-2(href=result.csvUrl, target='_blank') Download placements
+                p.mb-1
+                  strong Size:
+                  span.ms-2 #{result.width} x #{result.height}
+                if result.palette && result.palette.length
+                  p.mb-1
+                    strong Palette:
+                    span.ms-2 #{result.palette.join(', ')}
+                if result.colorUsage
+                  p.mb-2
+                    strong Color Count:
+                  ul.mb-0
+                    each val, key in result.colorUsage
+                      li Color #{key}: #{val}
+                .mt-3
+                  a.btn.btn-outline-primary.w-100(href=result.fileUrl, target='_blank')
+                    i.fas.fa-download.me-2
+                    | Download .ldr
+              else
+                p.text-muted.mb-0 No build generated yet.
+
+    #pane-hackathon.tab-pane.fade(role='tabpanel', aria-labelledby='tab-hackathon')
+      .card
+        .card-body
+          h4.card-title Hackathon Prompt
+          p.text-muted.mb-3 This prompt is pre-filled for quick copy or editing.
+          textarea#hackathonPrompt.form-control(rows='24', readonly).
+            help me build a hackathon project
+            
+            What is BrickSmith?
+            BrickSmith is a Node.js web application built on top of a boilerplate called hackathon-starter.
+            The hackathon-starter gives you a fully working Express server with auth, database, security, and a bunch of demo features already wired up -- so you don't have to build any of that from scratch.
+            On top of that foundation, you're adding Bricksmith AI, a LEGO set designer powered by Claude.
+            The tech stack is:
+            Express -- the web server framework
+            MongoDB -- the database (stores users, sessions, AI chat history)
+            Pug -- the HTML templating language (.pug files compile to HTML)
+            Bootstrap 5 -- the CSS framework for styling
+            Passport.js -- handles login and OAuth (Google, GitHub, etc.)
+            Three.js -- 3D rendering in the browser (already included in layout.pug!)
+            LangChain -- used for the RAG and AI agent features
+            Claude (Anthropic) -- powers Bricksmith AI
+            
+            Every feature in this project
+            Bricksmith AI (what you're building -- at /bricksmith)
+            This is the main feature you're adding. It's an AI-powered LEGO set designer with:
+            Set collection search -- search 800 real LEGO sets by name or ID, add them to "My Collection"
+            Collection-aware generation -- Claude designs sets around the parts you actually own
+            Real parts fetching -- if you add a Rebrickable API key, it fetches your exact real parts inventory from each owned set
+            Text prompt -- describe anything ("a medieval castle with towers and a drawbridge") and Claude designs a full buildable LEGO set
+            Quick preset buttons -- Castle, Sports Car, Space Station, House, Train, Dragon
+            Piece count slider -- 30 to 500 pieces
+            3D voxel viewer -- Three.js renders the model as 3D LEGO bricks you can rotate and zoom
+            Parts list tab -- full breakdown of every part: name, color, quantity, estimated unit price, line total
+            Wishlist tab -- BrickLink XML export (importable directly into BrickLink's wanted list), CSV export
+            Build tips tab -- 3 build order phases + 4 specific tips for the model
+            Summary card -- set name, theme, difficulty rating, total piece count, estimated total cost
+            CSRF protection -- all API calls are protected, keys never reach the browser
+            
+            Authentication system (at /login, /signup, /account)
+            A complete, production-grade auth system:
+            Email + password login with bcrypt hashing
+            OAuth login with Google, GitHub, Facebook, Discord, Microsoft, LinkedIn, Twitch, X (Twitter)
+            Two-factor authentication (2FA) via email code or TOTP authenticator app (like Google Authenticator)
+            Passkeys / WebAuthn -- passwordless login with hardware security keys or device biometrics
+            "Forgot password" flow with email reset links
+            "Login by email" -- magic link login without a password
+            Account management -- update profile, change password, link/unlink OAuth providers, delete account
+            Session management -- "logout everywhere" button that invalidates all sessions
+            Rate limiting on all auth endpoints (5 login attempts per hour, etc.)
+            
+            AI features (at /ai)
+            LLM Classifier (/ai/llm-classifier)
+            Paste a customer service message
+            Groq's Llama model classifies it into one of 10 departments (Order Tracking, Returns, Billing, etc.)
+            Shows the raw LLM response and the parsed department
+            Vision Camera Analysis (/ai/llm-camera)
+            Take a photo with your webcam or upload an image
+            Groq's vision model (Llama 4) describes what's in the image
+            Streams the analysis back in real time
+            RAG (Retrieval-Augmented Generation) (/ai/rag)
+            Drop PDF files into a rag_input/ folder
+            Click "Ingest" -- it chunks the PDFs, generates embeddings via HuggingFace, and stores them in MongoDB Atlas as vectors
+            Ask questions -- it does a semantic similarity search over your documents and sends the relevant chunks to Groq's Llama as context
+            Shows both the RAG answer (informed by your documents) and a plain LLM answer side by side so you can compare
+            Has embedding caching so it doesn't re-embed the same text twice (saves API cost)
+            Has LLM semantic caching so identical or near-identical questions reuse previous answers
+            AI Agent (/ai/ai-agent)
+            A LangChain-powered customer service chat agent
+            Has persistent memory -- remembers the conversation across sessions using MongoDB
+            Has built-in tools it can call (weather lookup, order status, etc.)
+            Prompt injection guard -- uses Llama Guard 4 to detect and block jailbreak attempts before they reach the main model
+            Middleware stack: tool retry with exponential backoff, conversation summarization (so long chats don't exceed context limits), prompt guard
+            Per-user chat history stored in MongoDB, cleaned up when the user deletes their account
+            OpenAI Moderation (/ai/openai-moderation)
+            Paste any text
+            Runs it through OpenAI's moderation API
+            Shows which harm categories it flags (harassment, violence, self-harm, etc.) and the confidence scores
+            
+            API demo pages (at /api)
+            These are working example integrations with third-party APIs:
+            Chart.js -- interactive charts
+            Voxel Renderer -- Three.js 3D voxel demo (this is actually very relevant to Bricksmith -- it's the same tech)
+            Last.fm -- music data
+            New York Times -- book bestseller lists
+            Stripe -- payment processing demo
+            Web scraping -- Cheerio-based HTML scraping example
+            Twilio -- SMS sending
+            Foursquare -- location/venue search
+            GitHub -- repo data
+            Twitch -- stream data
+            PayPal -- payment flow
+            Lob -- postal mail API
+            File upload -- Multer-based file upload with validation
+            HERE Maps -- interactive map
+            Google Maps -- interactive map
+            Google Drive -- file listing (requires OAuth)
+            Google Sheets -- spreadsheet reading (requires OAuth)
+            QuickBooks -- accounting API (requires OAuth)
+            Trakt -- movie/TV data
+            PubChem -- chemistry database
+            Wikipedia -- article search and content
+            Giphy -- GIF search
+            
+            Contact form (at /contact)
+            Simple email contact form
+            Sends via Nodemailer (SMTP)
+            Rate limited
+            
+            Security features (built into every request)
+            CSRF protection on every POST via Lusca
+            Rate limiting -- global (200 req/15 min), strict auth (5/hr), login (10/hr)
+            XSS protection headers
+            Clickjacking protection (X-Frame-Options: SAMEORIGIN)
+            x-powered-by header disabled (so the server doesn't advertise it runs Express)
+            Session stored in MongoDB so it survives server restarts
+            Password hashing with bcrypt via @node-rs/bcrypt
+            
+            Key things to know about the file structure
+            layout.pug already includes Three.js -- this line is in there: script(src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js')
+            That means your Bricksmith 3D renderer gets Three.js for free on every page.
+            You don't actually need to add the npm install three static route -- it's already being loaded from a CDN.
+            You can simplify your bricksmith.pug to remove the script(src='/js/lib/three.min.js') line and it'll still work.
+            main.scss only imports Bootstrap and Font Awesome right now.
+            Your bricksmith.scss adds all the custom dark-theme LEGO styling on top.
+            .env.example is the live config file -- the app reads this file directly at startup (not .env).
+            This is unusual -- most projects use .env -- but it's intentional for this boilerplate to make it obvious where keys go.
+            RATE_LIMIT_STRICT defaults to 5 per hour -- this is applied to your /bricksmith/generate route.
+            For a hackathon demo that's fine, but if judges are testing it repeatedly you might want to bump it up.
+            Just change it in .env.example: envRATE_LIMIT_STRICT=50

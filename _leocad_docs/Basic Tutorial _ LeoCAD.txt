@@ -1,0 +1,112 @@
+GENERAL INFORMATION
+Getting StartedParts LibraryCompiling GuideLicenseVersion History
+TUTORIALS
+Basic TutorialRotation Center
+REFERENCE
+Command Line OptionsMeta CommandsTexture Mapping
+Basic Tutorial
+This tutorial is designed as a quick start guide to give you an overview of the most commonly used LeoCAD featuredeep on any particular topic. Throughout these exercises, you will create aracecar and driver and learn to:
+Browse the parts library and add new pieces to a model.Move and rotate pieces.Create a model with multiple steps.Change the view position and orientation.Select objects.
+If you have not installed LeoCAD yet, please visit the Download Page before continuing.
+Getting Started
+Launch the LeoCAD application and you will see a window that looks somewhat like this:
+LeoCAD presents a standard graphical user interface: a title bar, menus and toolbars at the top, a status bar along workspace to the left and tool windows to the right.
+On the left, the workspace area is where one or more views of your model are displayed. To the right is a tool windoof available parts with a preview picture of the currently selected part and a palette of available colors. There are adwindows that are available for other operations, but they will not be featured in this tutorial.
+Note that the user interface varies between operating systems, so if you are not running the Windows version of Leapplication will slightly differ from what is shown in the pictures.
+Browsing the Parts List
+Start building the car by adding a blue “Plate 1 x 4”:
+Scroll down the “Parts” list (by default, this is displayed along the right edge of the workspace) until you find the “Plaexpand that group and select “Plate 1 x 4”.
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 1/12
+Now click on the blue rectangle in the “Colors” tool window just below the “Parts” list and you will notice that the imacorner changes as you select different parts or change colors to reflect your current choices.
+Adding a Piece
+Add the “Plate 1 x 4” to your model:
+There several ways to add a piece to a model; the easiest one is to simply drag it from the “Parts” list into the “Modedragging the piece, you will see a preview of where it will be placed as you move the mouse.
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 2/12
+Tip: Alternatively, you can press the “Insert” key on your keyboard or use the “Insert” function on the toolbar.
+Moving Pieces
+Now add a blue “Plate 2 x 4”:
+Select “Plate 2 x 4” from the “Parts” list and add it next to the piece you added earlier. It should be exactly 2 studs apiece, so if you did not drop it in the correct position, you will have to adjust it now.
+Move your mouse over the arrows on top of the “Plate 2 x 4” and notice that when it is over one of them, it will turn mouse pointer will change to an icon with 4 arrows. This means that if you hold the “Left Mouse Button” down now amouse, the currently selected pieces will move along the line where the arrow is.
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 3/12
+Tip: You can also use the arrow, “Page Up” or “Page Down” keys on your keyboard or “Move” on the toolbar to mov
+Tip: The grid is very useful to quickly measure the distance between pieces.
+Rotating Pieces
+Add a blue “Plate 2 x 8” on top of the previous 2 pieces:
+When you first drag the piece into the model, it will be parallel to the first pieces, but we want it to be perpendicular need to rotate it by 90 degrees.
+Move your mouse over to “Rotate” (the curved blue arrow) on the toolbar and drag the part to rotate the piece, simimove the pieces in the previous step. You will also have to move the new piece so that it is on top of the previous p
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 4/12
+Tip: You can also use the keyboard to rotate on all axes by holding the “Shift” key down while pressing the arrow, “PDown” keys.
+Building Steps
+Building instructions are usually broken up into multiple steps so that people can easily understand how a model is on to “Step 2” of our model by clicking on “Next” (double right arrow) on the toolbar. Notice that the current step is sBar” in the bottom right corner of the main window.
+Now go to the “Timeline” pane (under the “Parts” list) and you will be able to see the step where each piece was admake it easier for someone else to build our car, let us move the “Plate 2 x 8” to “Step 2” by dragging it on the “Timeto “Step 2”.
+If you go back to “Step 1” in the instructions by clicking on “Previous” (double left arrows), you will see that the “Platthere anymore and only appears on “Step 2” or later.
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 5/12
+Tip: You can also press the “Left” and “Right” arrow keys while holding down the “Alt” key on your keyboard to move
+Searching for Parts
+Now go to “Step 3” of the instructions and let us add a steering wheel and mudguards next. If you are not familiar wconvention of the “Parts” list, it can take a while to find out which category a part belongs to, so let us use the “Searfind those parts.
+Type “mudguard” in the “Search Parts” box and press “Enter” and LeoCAD will search all parts for the text you typeresults under the “Search Parts” box at the bottom portion of the “Parts” list.
+Select "Car Mudguard 2 x 4 without Studs" and add it to the model, then do the same for the steering wheel and yosomething like this:
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 6/12
+Adding More Pieces
+Advance the instructions another step and add a “Slope Brick 45 2 x 2” above the mudguard and another to the fron
+Let us also add another “Plate 1 x 4” to the car; here is the picture of the almost complete car:
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 7/12
+Rotating the View
+Now we need to add wheels to the car, so let us start by adding the wheel holders to “Step 5”. It is not going to be ebottom of the car from the current position, so let us rotate the camera to get a better view.
+Hold the “Alt” key down on your keyboard while you drag the mouse by using the “Left Mouse Button” and the view pressed, dragging with the “Middle Mouse Button” will pan the view sideways, and dragging with the “Right Mouse and out.
+Once you have a good view position, add 2 black "Plate 2 x 2 with Wheel Holders" to the car:
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 8/12
+Tip: The buttons and keys for these shortcuts can be configured in the “Preferences” menu.
+Movement Snap
+Go to “Step 6” and add a grey "Wheel Rim 6.4 x 8" and a black "Tyre 6/50 x 8 Offset Tread".
+If you zoom in closer, you will notice that with the default movement increments, it is not possible to get the wheel tothe wheel holder, so you will have to deselect “Move Snap Enabled” by clicking on the “Movement Snap” (left magntoolbar
+Select both the tyre and wheel at the same time by holding down the “Control” key on the keyboard and clicking on move them to the correct position of the car.
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 9/12
+Tip: The current movement increments are shown on the “Status Bar”.
+Copy and Paste
+We still need 3 more sets of wheels, but instead of adding new tyres and wheels one at a time, we can save time bywe just added to the clipboard and pasting it back. It works like most other applications--use keyboard shortcuts or copy and paste to the clipboard.
+When you paste a copy, it is placed in the same position as the one you copied it from, so we need to move the newside of the car. Since the car is exactly four studs wide, you can reselect “Movement Snap Enabled” and set its valuclicking “Snap XY” in the “Movement Snap” menu to easily position the new wheel on the other side of the car.
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 10/12
+We still need one last thing to finish the project--a driver! Advance another step and select “Minifig Wizard” from theyou will see a dialog where you can customize a minifig. Select the colors and accessories you want and click “OK”
+The finished car should look something like this:
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 11/12
+This completes the tutorial. Please remember that this tutorial does not teach you how to use the advanced featurethis is just an introduction to the basic features.
+Do not forget to save the file in case you want to come back and play with it later or send it to a friend. You can alsoinstructions or have LeoCAD create a web page with them for you--just explore all the options you have in the mencreate ray-traced pictures and use them as your desktop wallpaper if you have POV-Ray installed!
+© LeoCAD.org
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:54 PM Basic Tutorial | LeoCAD
+https://www.leocad.org/docs/tutorial1.html 12/12

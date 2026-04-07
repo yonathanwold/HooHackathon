@@ -1,0 +1,3467 @@
+[
+  {
+    "part": "18601.dat",
+    "name": "Plate 12 x 24 with  6 x  6 Square Cutouts and  6 x  6 Hole",
+    "w": 12,
+    "h": 24,
+    "type": "plate"
+  },
+  {
+    "part": "15623.dat",
+    "name": "Plate 16 x 16 x  0.667",
+    "w": 16,
+    "h": 16,
+    "type": "plate"
+  },
+  {
+    "part": "18922.dat",
+    "name": "Plate  8 x 16 x  0.667",
+    "w": 8,
+    "h": 16,
+    "type": "plate"
+  },
+  {
+    "part": "19001p01.dat",
+    "name": "Tipper Bucket 8 x 12 x  4.667 with Dark Bluish Grey Hinge Plate",
+    "w": 8,
+    "h": 12,
+    "type": "plate"
+  },
+  {
+    "part": "19001.dat",
+    "name": "Tipper Bucket 8 x 12 x  4.667 with Hinge Plate",
+    "w": 8,
+    "h": 12,
+    "type": "plate"
+  },
+  {
+    "part": "15624.dat",
+    "name": "Plate  8 x  8 x  0.667",
+    "w": 8,
+    "h": 8,
+    "type": "plate"
+  },
+  {
+    "part": "15625.dat",
+    "name": "Slope Brick Curved  5 x  8 x  0.667",
+    "w": 5,
+    "h": 8,
+    "type": "brick"
+  },
+  {
+    "part": "18897.dat",
+    "name": "Brick  6 x  6 Round with Holes",
+    "w": 6,
+    "h": 6,
+    "type": "brick"
+  },
+  {
+    "part": "11213.dat",
+    "name": "Plate  6 x  6 Round with Hole and Snapstud",
+    "w": 6,
+    "h": 6,
+    "type": "plate"
+  },
+  {
+    "part": "10202p04.dat",
+    "name": "Tile  6 x  6 with \"Soap Suds Cleans it all\" Pattern",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202d02.dat",
+    "name": "Tile  6 x  6 with Dark Bluish Grey Line and Light Bluish Grey Open Rectangle Left Panel Sticker",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202d01.dat",
+    "name": "Tile  6 x  6 with Dark Bluish Grey Line and Light Bluish Grey Open Rectangle Right Panel Sticker",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202d03.dat",
+    "name": "Tile  6 x  6 with Dark Bluish Grey Lines and Light Bluish Grey Panels Sticker",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202d04.dat",
+    "name": "Tile  6 x  6 with Dark Bluish Grey Lines and Open Rectangle on Light Bluish Grey Background Sticker",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202.dat",
+    "name": "Tile  6 x  6 with Groove and Underside Studs",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202p02.dat",
+    "name": "Tile  6 x  6 with Groove and Underside Studs with \"Discovery\" and \"NASA\" Pattern",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202p03.dat",
+    "name": "Tile  6 x  6 with Groove and Underside Studs with \"USA\" and US Flag Pattern",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202p06.dat",
+    "name": "Tile  6 x  6 with Groove and Underside Studs with Black and White Roof Shingle Outlines Pattern",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202px0.dat",
+    "name": "Tile  6 x  6 with Groove and Underside Studs with Black Eyes, Eyebrows, Open Mouth Evil Smile, Teeth and Red Tongue Pattern",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202p01.dat",
+    "name": "Tile  6 x  6 with Groove and Underside Studs with Dark Green and White Lines and White Circle Pattern",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202p00.dat",
+    "name": "Tile  6 x  6 with Groove and Underside Studs with Dark Green and White Lines Pattern",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202p05.dat",
+    "name": "Tile  6 x  6 with Minifig and Washing Machine Pattern",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10202d05.dat",
+    "name": "Tile  6 x  6 with Orange Disc Sticker",
+    "w": 6,
+    "h": 6,
+    "type": "tile"
+  },
+  {
+    "part": "10199.dat",
+    "name": "Duplo Plate  4 x  8 with 11 Underside Studs with Supports",
+    "w": 4,
+    "h": 8,
+    "type": "plate"
+  },
+  {
+    "part": "2156.dat",
+    "name": "Duplo Plate  3 x 8 with Chamfered Corners",
+    "w": 3,
+    "h": 8,
+    "type": "plate"
+  },
+  {
+    "part": "13269.dat",
+    "name": "Slope Brick 33/45  6 x  4 with  2 x  2 Cutout",
+    "w": 6,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18646.dat",
+    "name": "Plate  3 x  6 Round Half with  1 x  2 Cutout",
+    "w": 3,
+    "h": 6,
+    "type": "plate"
+  },
+  {
+    "part": "15588.dat",
+    "name": "=Brick  4 x  4 Corner Round",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "1939.dat",
+    "name": "=Tile  4 x  4 Corner Round Type 2",
+    "w": 4,
+    "h": 4,
+    "type": "tile"
+  },
+  {
+    "part": "18603.dat",
+    "name": "~Brick  4 x  4 x  0.667 Round - Bottom",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605.dat",
+    "name": "~Brick  4 x  4 x  0.667 Round - Top with  2 Studs",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p01.dat",
+    "name": "~Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Black Bat Symbol Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p07.dat",
+    "name": "~Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Bright Green Panel and \"BAM\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p05.dat",
+    "name": "~Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Dark Pink Panel and \"POW\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p02.dat",
+    "name": "~Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Medium Azure and Magenta \"WS\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p06.dat",
+    "name": "~Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Medium Azure Panel and \"ZAP\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p03.dat",
+    "name": "~Brick  4 x  4 x  0.667 Round - Top with  2 Studs with White Rune Character and Metallic Silver Lines Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p09.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Black \"Aperture\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0h.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Black and Red Diamonds Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p1k.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Black Strings, Metallic Silver Bridge and Knob Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0g.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Circuits and 8-Bit Shooter Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0l.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Dark Bluish Grey Panel Lines, Red and White Lights and Knight Rider Symbol Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p04.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Ghostbusters Logo and \"P.V.\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p1z.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Gold Pendant Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0o.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Golden Crocodile Head and Red Flames Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p13.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Golden Eagle Beak and Red Flames Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p1x.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Hogwarts Gryffindor Crest and Lightning Bolt Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0k.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Lime Crystal Ball Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0i.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Medium Lavender \"HA HA\" and Playing Cards Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p1n.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Medium Lilac, Yellow and Red Star Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p08.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Metallic Gold \"MARTY MC FLY\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0j.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Metallic Silver \"NS\" Monogram on Dark Blue Background Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0f.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Pastel Rainbow and Clouds Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p1v.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Paw Print on Lime Hand and Magenta Stripes Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0d.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Red \"DW\" on Dark Blue Background Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p12.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Red Fuse Lines and \"M:I\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0e.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Red Stripes and White \"The A-Team\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0c.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Reflective Stripes and ID Badge with \"EMMET\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p1t.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Video Game Joystick on Dark Bluish Grey and Light Bluish Grey Wood Boards Background Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0n.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with White \"BC01\" and Badge with Minifig Head Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p22.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with White \"BEETLEJUICE\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0b.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with White \"LL 929\" and Faded Classic Space Logo Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0a.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with White Collar Shirt Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p1p.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Yellow \"R\" in Black Oval Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p1o.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Yellow Bat Logo Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18605p0z.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  2 Studs with Yellow Symbol and Black Scales Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18602.dat",
+    "name": "~Electric Brick  4 x  4 x  0.667 Round - Top with  4 Studs",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "103683.dat",
+    "name": "~Electric Sound Brick  4 x  4 x  1.667 Button",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "14413.dat",
+    "name": "Brick  4 x  4 Facet",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p09.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Black \"Aperture\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0h.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Black and Red Diamonds Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p01.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Black Bat Symbol Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p1k.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Black Strings, Metallic Silver Bridge and Knob Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p07.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Bright Green Panel and \"BAM\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0g.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Circuits and 8-Bit Shooter Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0l.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Dark Bluish Grey Panel Lines, Red and White Lights and Knight Rider Symbol Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p05.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Dark Pink Panel and \"POW\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p04.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Ghostbusters Logo and \"P.V.\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p1z.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Gold Pendant Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0o.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Golden Crocodile Head and Red Flames Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p13.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Golden Eagle Beak and Red Flames Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p1x.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Hogwarts Gryffindor Crest and Lightning Bolt Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0k.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Lime Crystall Ball Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p02.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Medium Azure and Magenta \"WS\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p06.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Medium Azure Panel and \"ZAP\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0i.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Medium Lavender \"HA HA\" and Playing Cards Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p1n.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Medium Lilac, Yellow and Red Star Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p08.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Metallic Gold \"MARTY MC FLY\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0j.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Metallic Silver \"NS\" Monogram on Dark Blue Background Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0f.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Pastel Rainbow and Clouds Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p1v.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Paw Print on Lime Hand and Magenta Stripes Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0d.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Red \"DW\" on Dark Blue Background Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p12.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Red Fuse Lines and \"M:I\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0e.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Red Stripes and White \"The A-Team\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0c.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Reflective Stripes and ID Badge with \"EMMET\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p1t.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Video Game Joystick on Dark Bluish Grey and Light Bluish Grey Wood Boards Background Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0n.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with White \"BC01\" and Badge with Minifig Head Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p22.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with White \"BEETLEJUICE\" Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0b.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with White \"LL 929\" and Faded Classic Space Logo Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0a.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with White Collar Shirt Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p03.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with White Rune Character and Metallic Silver Lines Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p1p.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Yellow \"R\" in Black Oval Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p1o.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Yellow Bat Logo Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c02p0z.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  2 Studs with Yellow Symbol and Black Scales Pattern",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18603c01.dat",
+    "name": "Brick  4 x  4 x  0.667 Round with RFID Tag and  4 Studs",
+    "w": 4,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "14721.dat",
+    "name": "Duplo Plate  4 x  4",
+    "w": 4,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "11833.dat",
+    "name": "Plate  4 x  4 Round with  2 x  2 Round Hole",
+    "w": 4,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "11399.dat",
+    "name": "Plate  4 x  4 with 2 Clips Horizontal (Open C-Clips)",
+    "w": 4,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "11290.dat",
+    "name": "Slope Brick Curved  2 x  8 x  2 Double",
+    "w": 2,
+    "h": 8,
+    "type": "brick"
+  },
+  {
+    "part": "11301.dat",
+    "name": "Slope Brick Curved  2 x  8 x  2 Inverted Double",
+    "w": 2,
+    "h": 8,
+    "type": "brick"
+  },
+  {
+    "part": "1751.dat",
+    "name": "Tile  4 x  4",
+    "w": 4,
+    "h": 4,
+    "type": "tile"
+  },
+  {
+    "part": "18980.dat",
+    "name": "Plate  2 x  6 with Two Rounded Corners",
+    "w": 2,
+    "h": 6,
+    "type": "plate"
+  },
+  {
+    "part": "11212.dat",
+    "name": "Plate  3 x  3",
+    "w": 3,
+    "h": 3,
+    "type": "plate"
+  },
+  {
+    "part": "15397.dat",
+    "name": "Plate  3 x  3 Cross",
+    "w": 3,
+    "h": 3,
+    "type": "plate"
+  },
+  {
+    "part": "17514.dat",
+    "name": "=Plate  2 x  4 with 2 Studs with Curved, Beveled Sides",
+    "w": 2,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "13731.dat",
+    "name": "=Slope Brick Curved  1 x  8 with Plate  1 x  2",
+    "w": 1,
+    "h": 8,
+    "type": "brick"
+  },
+  {
+    "part": "15466p01.dat",
+    "name": "~Electric Brick  2 x  4 with 16GB USB Flash Drive - Bottom Plate with 16GB Pattern",
+    "w": 2,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "15466.dat",
+    "name": "~Electric Brick  2 x  4 with USB Flash Drive - Bottom Plate",
+    "w": 2,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "189.dat",
+    "name": "~Electric Train  4.5V On/Off Switch Brick  2 x  4 (Needs Work)",
+    "w": 2,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18892.dat",
+    "name": "Brick  2 x  4 with  2 x  2 x  0.667 Cutout and 2 Wheel Pins",
+    "w": 2,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "10661.dat",
+    "name": "Duplo Plate  2 x  4 with  2 Holes with Locking Ridges",
+    "w": 2,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "16686.dat",
+    "name": "Duplo Plate  2 x  4 with Hinge",
+    "w": 2,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "15466c02.dat",
+    "name": "Electric Brick  2 x  4 with USB Flash Drive (Extended)",
+    "w": 2,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "15466c01.dat",
+    "name": "Electric Brick  2 x  4 with USB Flash Drive (Retracted)",
+    "w": 2,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "15466p01c02.dat",
+    "name": "Electric Brick  2 x  4 with USB Flash Drive 16GB (Extended)",
+    "w": 2,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "15466p01c01.dat",
+    "name": "Electric Brick  2 x  4 with USB Flash Drive 16GB (Retracted)",
+    "w": 2,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "189c01.dat",
+    "name": "Electric Train  4.5V On/Off Switch Brick  2 x  4",
+    "w": 2,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "18455.dat",
+    "name": "Hinge Brick  2 x  4 Locking with  1 Finger on Top at One End",
+    "w": 2,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "14137.dat",
+    "name": "Hinge Plate  1 x  8 with Angled Side Extensions and Rectangular Underside Frame",
+    "w": 1,
+    "h": 8,
+    "type": "plate"
+  },
+  {
+    "part": "14137d01.dat",
+    "name": "Hinge Plate  1 x  8 with Angled Side Extensions and Rectangular Underside Frame with Blue Markings on Yellow Background Sticker",
+    "w": 1,
+    "h": 8,
+    "type": "plate"
+  },
+  {
+    "part": "18975.dat",
+    "name": "Plate  2 x  4 with Side Bricks  1 x  2 x  1.333 with Hole",
+    "w": 2,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "18585.dat",
+    "name": "Technic Brick  2 x  4 with Holes and Launcher",
+    "w": 2,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "11344.dat",
+    "name": "Duplo Slope Brick  2 x  3 x  2 with Curved Top",
+    "w": 2,
+    "h": 3,
+    "type": "brick"
+  },
+  {
+    "part": "18870.dat",
+    "name": "=Plate  1.5 x  1.5 x  0.667 Round",
+    "w": 5,
+    "h": 1,
+    "type": "plate"
+  },
+  {
+    "part": "1927.dat",
+    "name": "=Hinge Plate  1 x  4 (Complete)",
+    "w": 1,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "19954.dat",
+    "name": "=Hinge Plate  1 x  4 (Complete)",
+    "w": 1,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "19952.dat",
+    "name": "=Hinge Plate  1 x  4 Base",
+    "w": 1,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "19953.dat",
+    "name": "=Hinge Plate  1 x  4 Top",
+    "w": 1,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "11153.dat",
+    "name": "=Slope Brick Curved  4 x  1",
+    "w": 4,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "16424.dat",
+    "name": "=Tile  2 x  2 Round with Round Underside Stud and Black Eye Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "20299.dat",
+    "name": "=Tile  2 x  2 Round with Round Underside Stud with Earth Element Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "20294.dat",
+    "name": "=Tile  2 x  2 Round with Round Underside Stud with Fire Element Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "20296.dat",
+    "name": "=Tile  2 x  2 Round with Round Underside Stud with Water Element Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "20300.dat",
+    "name": "=Tile  2 x  2 Round with Round Underside Stud with Wind Element Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "18970.dat",
+    "name": "Animal Clam Lower Half with  2 x  2 Plate",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "16968.dat",
+    "name": "Brick  1 x  4 Disk Shooter",
+    "w": 1,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "15533.dat",
+    "name": "Brick  1 x  4 with Embossed Bricks",
+    "w": 1,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "10314.dat",
+    "name": "Brick  1 x  4 x  1.333 with Curved Top without Understuds",
+    "w": 1,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "15469.dat",
+    "name": "Brick  2 x  2 Round with 4 Petals Base and Axle Hole",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "17485.dat",
+    "name": "Brick  2 x  2 Round with Pin Holes",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "17485p01.dat",
+    "name": "Brick  2 x  2 Round with Pin Holes with Waffle, Dark Turquoise Lapels, White Shirt and Metallic Gold Tie Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "17114.dat",
+    "name": "Brick  2 x  2 with Two Ball Joints and Axlehole",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "109373p01.dat",
+    "name": "Brick  2 x  2 x  0.667 with Black Rubber Foot Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "109373.dat",
+    "name": "Brick  2 x  2 x  0.667 with Rubber Foot",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "1750.dat",
+    "name": "Brick  2 x  2 x  1 with Curved Bottom",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "20952.dat",
+    "name": "Brick Round  1.4 x  1.4 x  0.667 Dome Top",
+    "w": 4,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "20952p02.dat",
+    "name": "Brick Round  1.4 x  1.4 x  0.667 Dome Top with SW BB-8 Droid Head with Large Photoreceptor Pattern",
+    "w": 4,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "20952p01.dat",
+    "name": "Brick Round  1.4 x  1.4 x  0.667 Dome Top with SW BB-8 Droid Head with Small Photoreceptor Pattern",
+    "w": 4,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "20953.dat",
+    "name": "Brick Round Sphere  2 x  2 x  1.667 with Stud",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "20953p02.dat",
+    "name": "Brick Round Sphere  2 x  2 x  1.667 with Stud with Oscar the Grouch Face Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "20953p01.dat",
+    "name": "Brick Round Sphere  2 x  2 x  1.667 with Stud with SW BB-8 Droid Body Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "16685.dat",
+    "name": "Duplo Brick  1 x  4 x  2 with Two Cutouts",
+    "w": 1,
+    "h": 4,
+    "type": "brick"
+  },
+  {
+    "part": "13358.dat",
+    "name": "Duplo Brick  2 x  2 Hinge Base",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "11170.dat",
+    "name": "Duplo Brick  2 x  2 x  1.5 with Curved Front",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "11170p01.dat",
+    "name": "Duplo Brick  2 x  2 x  1.5 with Curved Front with Boy with Cap, Girl with Bow, and White Vehicle Windows Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "11169.dat",
+    "name": "Duplo Brick  2 x  2 x  2 with Inside Curve",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15706.dat",
+    "name": "Plate  1 x  4 with Plate  1 x  4 at 45 Degrees",
+    "w": 1,
+    "h": 4,
+    "type": "plate"
+  },
+  {
+    "part": "18674.dat",
+    "name": "Plate  2 x  2 Round with  1 Centre Stud",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "15092.dat",
+    "name": "Plate  2 x  2 with  2 Pins",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "11002.dat",
+    "name": "Plate  2 x  2 with 2 Wheel Pins Extended with Wishbones",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "10247.dat",
+    "name": "Plate  2 x  2 with Hole and Complete Underside Rib",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "15108.dat",
+    "name": "Plate  2 x  2 with Peghole, Axlehole, Hinge and Rubberband Slots",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "122c01.dat",
+    "name": "Plate  2 x  2 with Red Wheels (Complete)",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "122c03.dat",
+    "name": "Plate  2 x  2 with Red Wheels and Tyres 6/ 50 x 8 Offset Tread",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "122c05.dat",
+    "name": "Plate  2 x  2 with Red Wheels and Tyres 8/ 75 x 8 Offset Tread",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "122c07.dat",
+    "name": "Plate  2 x  2 with Red Wheels and Wheels 13 x 20 Solid Rubber",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "15456.dat",
+    "name": "Plate  2 x  2 with Towball and Centre Hole",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "122c02.dat",
+    "name": "Plate  2 x  2 with White Wheels (Complete)",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "122c04.dat",
+    "name": "Plate  2 x  2 with White Wheels and Tyres 6/ 50 x 8 Offset Tread",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "122c06.dat",
+    "name": "Plate  2 x  2 with White Wheels and Tyres 8/ 75 x 8 Offset Tread",
+    "w": 2,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "1762.dat",
+    "name": "Slope Brick 31  2 x  2 Double, Curved",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "13548.dat",
+    "name": "Slope Brick 45  2 x  2 Double Convex with 45 Corner",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "13548pz1.dat",
+    "name": "Slope Brick 45  2 x  2 Double Convex with 45 Corner with  3 White Dots and  2 White Half-Dots Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p05.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with \"MUSEUM\" Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068d0b.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with \"WA\" Header Letter Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p03.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Arctic 2014 Logo (White on Dark Blue) Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p08.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Arctic 2018 Logo Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p0j.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Arctic Explorer Symbol Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068pt1.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Black \"targa\" Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068pt2.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Black \"turbo\" Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dyd.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Black Engine on Grey Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dyh.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Black Ford Text in Grey Stripe on Black Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dyf.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Black Number 2 in White Disc on Black Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dyg.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Black Number 2 in White Disc on Grey Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dy1.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Black Radiator Grille and Bugatti Logo on Transparent Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p0e.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Bright Light Orange and Gold Ruffles with Dark Red Outline Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068pb0.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Cat Ears, White Speedometer, Metallic Silver Grille, and Medium Lilac Flames Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068px0.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Dark Blue Eyes and Medium Azure Eyelids Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p06.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Dark Blue Stripe Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dy0.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Dark Grey Exhaust Pipes on Black Background and Black \"CORVETTE\" on Yellow Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p02.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Dark Tan Fur Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p0i.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Dog Nose and Big Round Eyes Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dya.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Door Outline with Black 16 in White Frame with Yellow Stripes on Transparent Background Left",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dy9.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Door Outline with Black 16 in White Frame with Yellow Stripes on Transparent Background Right",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dyl.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Ferrari Square Badge and Red Stripes on White Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p09.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Fire Logo Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068d09.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Four Bright Light Orange Buttons Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p04.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Ghostbusters Logo Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p0d.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Gold and Bright Light Orange Ruffles with Dark Red Outline Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p0c.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Gold and Red Ruffles with Dark Red Outline Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p0h.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Green Leaf Symbol Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dye.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Grey Air Vent and Red Taillamp on Black Background Left Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dyc.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Grey Air Vent and Red Taillamp on Black Background Right Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dy5.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Grey Air Vents on Black Background Left Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dy6.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Grey Air Vents on Black Background Right Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dy4.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Headlights on Blue Background Left Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dy3.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Headlights on Blue Background Right Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068d02.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Lamp and Grille Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p0f.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Leopard Head through Green Foilage in Metallic Silver Compass Rose Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dyb.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Logos on Red Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dx0.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Medium Azure and White Connected Circles and Lines Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068pz1.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Metallic Silver and White Hole Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068px1.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Metallic Silver Fancy Scroll and Heart Shaped Paw Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dy2.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Red and White R8 Logo on Black Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dym.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Red Number '1' on Blue Panel on Yellow Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p0k.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Red Number '21' and White Logo on Dark Blue Stripe Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p0g.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Red, Light Bluish Grey and Black Stripes Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068pt0.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Silver \"7\" in Circles and Black Stripes Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068pz0.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with SW Storm Trooper Breathing Mask Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dy7.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Taillamp on Blue Background Left Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dy8.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Taillamp on Blue Background Right Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068d03.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Tan Spots Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p0b.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Two Black Dots in Circles within Black Kidney Shaped Area Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068d01.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Two Black Hashes on Tan Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068dyn.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with White 911 in Red Square on White Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p0a.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with White Paw in Blue Seven Sided Star (Wildlife Rescue 2021 Logo) Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p07.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with White Racing Stripes Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15068p01.dat",
+    "name": "Slope Brick Curved  2 x  2 x  0.667 with Wolf Armour and Eyes Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "13547.dat",
+    "name": "Slope Brick Curved  4 x  1 Inverted",
+    "w": 4,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "192685ac01.dat",
+    "name": "Sticker Funnel Black with White Stripe and \"S\" Logo (Formed for Slope Brick 75   2 x  2 x  3)",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "191485bc01.dat",
+    "name": "Sticker Funnel Black with White Stripes (Formed for Slope Brick 65 2 x 2 x 2)",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "192685bc01.dat",
+    "name": "Sticker Funnel Black with White Stripes (Formed for Slope Brick 75  2 x  2 x  3)",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "191485ac01.dat",
+    "name": "Sticker Funnel Blue with Yellow Stripes and Star (Formed for Slope Brick 65 2 x 2 x 2)",
+    "w": 2,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "14719.dat",
+    "name": "Tile  2 x  2 Corner",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14719p00.dat",
+    "name": "Tile  2 x  2 Corner with Orange and Yellow Diamonds, Blue Star and Dark Turquoise Lines Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203.dat",
+    "name": "Tile  2 x  2 Inverted",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203d02.dat",
+    "name": "Tile  2 x  2 Inverted with Aurebesh \"LEIA\" Characters and Carved Heart Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203d04.dat",
+    "name": "Tile  2 x  2 Inverted with Black and White Machine Pattern 1 Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203d05.dat",
+    "name": "Tile  2 x  2 Inverted with Black and White Machine Pattern 2 Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203d03.dat",
+    "name": "Tile  2 x  2 Inverted with Black Dots on Dark Bluish Grey Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203d06.dat",
+    "name": "Tile  2 x  2 Inverted with Black Knobs and White Buttons Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203p02.dat",
+    "name": "Tile  2 x  2 Inverted with Four Red, Orange and Yellow Rounded Squares Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203p01.dat",
+    "name": "Tile  2 x  2 Inverted with Medium Blue Gift Wrap Bow Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203d01.dat",
+    "name": "Tile  2 x  2 Inverted with SW Scout Trooper Helmet and Tally Marks Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203d08.dat",
+    "name": "Tile  2 x  2 Inverted with White \"Audi customer\" Text on Red Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203d09.dat",
+    "name": "Tile  2 x  2 Inverted with White \"Sport racing\" Text on Red Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11203d07.dat",
+    "name": "Tile  2 x  2 Inverted with White Audi Sport Logo on Red Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769d02.dat",
+    "name": "Tile  2 x  2 Round with Black Rings Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0e.dat",
+    "name": "Tile  2 x  2 Round with Black Spiral Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769px9.dat",
+    "name": "Tile  2 x  2 Round with Blue and Medium Azure Stripes within Black Ring Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0h.dat",
+    "name": "Tile  2 x  2 Round with Blue Bird with Raised Wings and Flag with Red, White and Blue Stars and Stripes Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p10.dat",
+    "name": "Tile  2 x  2 Round with Bright Green Circle and Leave Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pb1.dat",
+    "name": "Tile  2 x  2 Round with Captain America Shield Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pz4.dat",
+    "name": "Tile  2 x  2 Round with Centered Black Disc (8 LDU Diameter) Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769px7.dat",
+    "name": "Tile  2 x  2 Round with Centered Black Disc Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769d03.dat",
+    "name": "Tile  2 x  2 Round with Chrome Gold Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769d0b.dat",
+    "name": "Tile  2 x  2 Round with Dark Red Semi-Circles Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0p.dat",
+    "name": "Tile  2 x  2 Round with Eye with Copper Iris and Black Pupil Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0k.dat",
+    "name": "Tile  2 x  2 Round with Eye with Metallic Light Blue Iris and Black Pupil Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769py0.dat",
+    "name": "Tile  2 x  2 Round with Four Dark Grey Rings inside Black Disc Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535.dat",
+    "name": "Tile  2 x  2 Round with Hole",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p02.dat",
+    "name": "Tile  2 x  2 Round with Hole with Disc with Light Blue Ring Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p01.dat",
+    "name": "Tile  2 x  2 Round with Hole with Disc with Orange Ring Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p04.dat",
+    "name": "Tile  2 x  2 Round with Hole with Doughnut with Bright Pink Icing and Sprinkles Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p05.dat",
+    "name": "Tile  2 x  2 Round with Hole with Doughnut with Dark Brown Chocolate Icing and Sprinkles Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p06.dat",
+    "name": "Tile  2 x  2 Round with Hole with Metallic Silver Ring Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p07.dat",
+    "name": "Tile  2 x  2 Round with Hole with Orange Circles Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p03.dat",
+    "name": "Tile  2 x  2 Round with Hole with Rotor Blade Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p11.dat",
+    "name": "Tile  2 x  2 Round with Hole with Yellow Circles Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0v.dat",
+    "name": "Tile  2 x  2 Round with Knob Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0x.dat",
+    "name": "Tile  2 x  2 Round with Large Mouth, Red Lips, Orange Tongue, White Teeth with Gold Tooth Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769d07.dat",
+    "name": "Tile  2 x  2 Round with Light Bluish Grey Hatch Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769d08.dat",
+    "name": "Tile  2 x  2 Round with Magenta Star Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769px5.dat",
+    "name": "Tile  2 x  2 Round with Metallic Light Blue Snowflake Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pt1.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \":\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pt2.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"?\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pta.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"A\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptb.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"B\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptc.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"C\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptd.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"D\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pte.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"E\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptf.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"F\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptg.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"G\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pth.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"H\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pti.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"I\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptj.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"J\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptk.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"K\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptl.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"L\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptm.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"M\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptn.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"N\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pto.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"O\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptp.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"P\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptq.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"Q\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptr.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"R\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pts.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"S\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptt.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"T\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptu.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"U\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptv.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"V\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptw.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"W\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptx.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"X\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pty.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"Y\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ptz.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver \"Z\" on Black Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769d05.dat",
+    "name": "Tile  2 x  2 Round with Metallic Silver Circles and Ovals Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p11.dat",
+    "name": "Tile  2 x  2 Round with Pancake, Strawberries and Butter Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0s.dat",
+    "name": "Tile  2 x  2 Round with Red Bowser Head Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0w.dat",
+    "name": "Tile  2 x  2 Round with Red Circle Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p01.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud and Black Eye Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0g.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with  3 Red Concentric Circles Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0o.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with \"TC\" Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p09.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Archery Target Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p06.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Black and Dark Bluish Grey Grid Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0q.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Black and Metallic Gold Compass Center Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p00.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Black and Metallic Gold Fleur de Lis Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p04.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Black Angry Eyes and Mouth and Sharp Teeth Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pb0.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Black Batman Logo Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ps3.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Black Floral Outline Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769px3.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Black Pupil and White Glint Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p02.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Black Squinting Eyes Wide Grin and Sharp Teeth Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0l.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Black Stern Eyebrows and Closed Mouth with Two Sharp Teeth and Dark Bluish Grey Eyepatch Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0j.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Brown Paw Print Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0a.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Clock and Roman Numerals Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0f.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Clock Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0m.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Clock Pattern with Red Second Hand Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769px0.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Coloured Clock Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0b.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Dart Board Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769px6.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Dragon on Dark Pink Background Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pm2.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Earth Element Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0d.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Eye and Eyelid Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pm1.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Fire Element Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769d01.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Gas Cap and Classic \"GT\" Emblem Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0n.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Gold H, 5 Stars and Ornamented Vine Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p08.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Green Foliage Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769df4.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Lime Fruit Slice Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p03.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Magenta and Bright Pink Life Preserver with Curved Bands Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p81.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Magenta Star and Record Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769px4.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Medium Lilac Eyelid and Black Pupil Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769px2.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Metallic Silver Mechanical Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0c.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Octan Logo and Classic \"OCTAN GAS\" Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769df3.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Orange Fruit Slice Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p07.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Pizza Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p82.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Pizza Pepperoni Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pb4.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Pumpkin Jack O'Lantern Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769px1.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Red and Pink Fan Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pb5.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Red X-Men Logo in Bright Light Orange Circle Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pt0.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Silver McLaren Logo Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pb3.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Sunny Side Up Egg Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p84.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Sunny Side Up Egg, Noodles and Vegetables Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ps1.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with SW Reactor Vent with Bar and Red Circle Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ps2.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with SW Six Spokes and Circle Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p83.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Tan and Dark Tan Tree Stump Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pm3.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Water Element Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pb2.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with White \"BAM!\" on Red and Medium Blue Burst Cloud Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pb6.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with White \"POW!\" on Red and Yellow Burst Cloud Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p05.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with White Dot Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pm0.dat",
+    "name": "Tile  2 x  2 Round with Round Underside Stud with Wind Element Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ps6.dat",
+    "name": "Tile  2 x  2 Round with SW Cockpit Front Window Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ps5.dat",
+    "name": "Tile  2 x  2 Round with SW Conduits and Pipes Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ps4.dat",
+    "name": "Tile  2 x  2 Round with SW Dark Bluish Grey Imperial Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ph1.dat",
+    "name": "Tile  2 x  2 Round with Three Metallic Gold Discs within Black Rings and Two White Squares within Blue Disc and Black and White Rings Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769d09.dat",
+    "name": "Tile  2 x  2 Round with Two Bees on Medium Lavender Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769px8.dat",
+    "name": "Tile  2 x  2 Round with Two Magenta Circles Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pz0.dat",
+    "name": "Tile  2 x  2 Round with Two White Squares Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769pz1.dat",
+    "name": "Tile  2 x  2 Round with Two White Squares Within Black Round and White Ring Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769ph0.dat",
+    "name": "Tile  2 x  2 Round with Two White Squares within White Ring Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0i.dat",
+    "name": "Tile  2 x  2 Round with Vinyl Record and Magenta Label Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0y.dat",
+    "name": "Tile  2 x  2 Round with Vinyl Record with Bright Light Orange and Magenta Center and Musical Notes Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0t.dat",
+    "name": "Tile  2 x  2 Round with White and Reddish Brown Cactus Needles Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0r.dat",
+    "name": "Tile  2 x  2 Round with White Eye Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769d04.dat",
+    "name": "Tile  2 x  2 Round with White Flower on Chrome Gold Background Sticker",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0u.dat",
+    "name": "Tile  2 x  2 Round with Wooden Planks and Dark Red Dragon Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14769p0z.dat",
+    "name": "Tile  2 x  2 Round with Yellow Eye Half Closed, Slit Pupil, White Glints, and Dark Blue Eyelid Lines Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p09.dat",
+    "name": "Tile 2 x 2 Round with Hole with Blue Circles Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p12.dat",
+    "name": "Tile 2 x 2 Round with Hole with Bright Green Circles Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p10.dat",
+    "name": "Tile 2 x 2 Round with Hole with Dark Turquoise Circles Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15535p08.dat",
+    "name": "Tile 2 x 2 Round with Hole with Red Circles Pattern",
+    "w": 2,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "14222.dat",
+    "name": "Duplo Brick  1 x  3 x  2 Round Top with Cut Away Sides",
+    "w": 1,
+    "h": 3,
+    "type": "brick"
+  },
+  {
+    "part": "18759.dat",
+    "name": "Slope Brick 45  3 x  1 Inverted Double with Inner Stopper Rings",
+    "w": 3,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "190155b.dat",
+    "name": "Sticker  2.3 x  1.9 with Yellow Round Brick, \"TX Shell\", Shell Logo and Striped Background",
+    "w": 3,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "18863.dat",
+    "name": "=Slope Brick 18  2 x  1 x  0.667 Grille",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "17134.dat",
+    "name": "=Slope Brick Curved  2 x  1",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "15561.dat",
+    "name": "=Tile  1 x  2 Grille with Groove",
+    "w": 1,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "11211.dat",
+    "name": "Brick  1 x  2 with Two Studs on One Side",
+    "w": 1,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "15071.dat",
+    "name": "Brick  1 x  2 x  0.667 with 8 Studs and Angled Handle",
+    "w": 1,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "18783.dat",
+    "name": "Duplo Brick  1 x  2 x  2 Logs Horizontal",
+    "w": 1,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "1745.dat",
+    "name": "Plate  1 x  2 Half Round with 1 Centre Stud",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "21445.dat",
+    "name": "Plate  1 x  2 with 1 Wheel Pin",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "15208.dat",
+    "name": "Plate  1 x  2 with 3 Teeth In-line",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "14417.dat",
+    "name": "Plate  1 x  2 with Ball Joint-8 on Side",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "11476.dat",
+    "name": "Plate  1 x  2 with Clip Horizontal on Side (Thick C-Clip)",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "19727.dat",
+    "name": "Plate  1 x  2 with Cube",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "19727p03.dat",
+    "name": "Plate  1 x  2 with Cube with Minecraft Cow Pattern",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "19727p02.dat",
+    "name": "Plate  1 x  2 with Cube with Minecraft Pig Face Pattern",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "19727p00.dat",
+    "name": "Plate  1 x  2 with Cube with Minecraft Sheep Pattern",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "19727p01.dat",
+    "name": "Plate  1 x  2 with Cube with Minecraft Spider and Black Mouth Pattern",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "19727p05.dat",
+    "name": "Plate  1 x  2 with Cube with Minecraft Spider Pattern",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "15573.dat",
+    "name": "Plate  1 x  2 with Groove with 1 Centre Stud, without Understud",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "18649.dat",
+    "name": "Plate  1 x  2 with Handles on Opposite Ends",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "15403.dat",
+    "name": "Plate  1 x  2 with Mini Shooting Blaster",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "15403c01.dat",
+    "name": "Plate  1 x  2 with Mini Shooting Blaster with Dark Bluish Grey Trigger",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "15403c02.dat",
+    "name": "Plate  1 x  2 with Mini Shooting Blaster with Dark Bluish Grey Trigger and Trans Orange Projectile",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "11458.dat",
+    "name": "Plate  1 x  2 with Offset Peghole",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "18677.dat",
+    "name": "Plate  1 x  2 with Offset Peghole on Underside",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "14418.dat",
+    "name": "Plate  1 x  2 with Socket Joint-8 with Friction",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "14419.dat",
+    "name": "Plate  1 x  2 with Socket Joint-8 with Friction and Ball Joint-8",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "14704.dat",
+    "name": "Plate  1 x  2 with Socket Joint-8 with Friction Centre",
+    "w": 1,
+    "h": 2,
+    "type": "plate"
+  },
+  {
+    "part": "15571.dat",
+    "name": "Slope Brick 45  1 x  2 Triple with Bottom Stud Holder",
+    "w": 1,
+    "h": 2,
+    "type": "brick"
+  },
+  {
+    "part": "11477.dat",
+    "name": "Slope Brick Curved  2 x  1",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyb.dat",
+    "name": "Slope Brick Curved  2 x  1 Black and Grey Face Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477pz2.dat",
+    "name": "Slope Brick Curved  2 x  1 with  2 Metallic Silver Lines Pattern",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477pz0.dat",
+    "name": "Slope Brick Curved  2 x  1 with  9 Blue Lines Pattern",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477pz1.dat",
+    "name": "Slope Brick Curved  2 x  1 with 7 Reddish Brown Arrowheads Pattern",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyt.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black \"PORSCHE ELLIGENT ORMANCE\" on Black Halftone Stripes on White Background Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyu.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black \"PORSCHE INTELLIGE PERFORM\" on Black Halftone Stripes on White Background Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d0c.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black Air Vent on Grey Stripe on Black and Orange Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyy.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black Air Vent on Grey Stripe on Black and Orange Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dy9.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black Air Vent on Transparent Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dy8.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black Air Vent on Transparent Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyh.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black Airscoope on White Background Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dy7.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black and Dark Blue Headlamp on Transparent Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dy6.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black and Dark Blue Headlamp on Transparent Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dy4.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black and Red Taillamp on Yellow Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dy5.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black and Red Taillamp on Yellow Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyk.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black Arc on Red Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyl.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black Arc on Red Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dy3.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black Headlamp on Yellow Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dy2.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black Headlamp on Yellow Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d03.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black Triangle on Orange Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d02.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black Triangle on Orange Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d0u.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black, Grey and Red Stripes on White Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d0w.dat",
+    "name": "Slope Brick Curved  2 x  1 with Black, Grey and Red Stripes on White Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyr.dat",
+    "name": "Slope Brick Curved  2 x  1 with Dark Grey Lines and Black Air Vent on White Background Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dys.dat",
+    "name": "Slope Brick Curved  2 x  1 with Dark Grey Lines on White Background Back Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyq.dat",
+    "name": "Slope Brick Curved  2 x  1 with Dark Grey Lines on White Background Back Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyw.dat",
+    "name": "Slope Brick Curved  2 x  1 with Dark Grey Lines on White Background Front Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyv.dat",
+    "name": "Slope Brick Curved  2 x  1 with Dark Grey Lines on White Background Front Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d05.dat",
+    "name": "Slope Brick Curved  2 x  1 with Grey Stripes on Red Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d04.dat",
+    "name": "Slope Brick Curved  2 x  1 with Grey Stripes on Red Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyf.dat",
+    "name": "Slope Brick Curved  2 x  1 with Headlight on Black and White Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyg.dat",
+    "name": "Slope Brick Curved  2 x  1 with Headlight on Black and White Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d0e.dat",
+    "name": "Slope Brick Curved  2 x  1 with Light Blue and White Triangles on Blue Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d0d.dat",
+    "name": "Slope Brick Curved  2 x  1 with Light Blue and White Triangles on Blue Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dye.dat",
+    "name": "Slope Brick Curved  2 x  1 with Red \"P1\" and Grey Triangle on Black Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyd.dat",
+    "name": "Slope Brick Curved  2 x  1 with Red \"P1\" and Grey Triangle on Black Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dy1.dat",
+    "name": "Slope Brick Curved  2 x  1 with Red and White Taillamp on Yellow Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dy0.dat",
+    "name": "Slope Brick Curved  2 x  1 with Red and White Taillamp on Yellow Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dya.dat",
+    "name": "Slope Brick Curved  2 x  1 with Red Arrow and Black Triangle on White Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyc.dat",
+    "name": "Slope Brick Curved  2 x  1 with Red Arrow and Black Triangle on White Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d00.dat",
+    "name": "Slope Brick Curved  2 x  1 with Red Stripes on Black Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyz.dat",
+    "name": "Slope Brick Curved  2 x  1 with Red Stripes on Black Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyi.dat",
+    "name": "Slope Brick Curved  2 x  1 with Red Taillamp on Black Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyj.dat",
+    "name": "Slope Brick Curved  2 x  1 with Red Taillamp on Black Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d01.dat",
+    "name": "Slope Brick Curved  2 x  1 with Tail Light Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d07.dat",
+    "name": "Slope Brick Curved  2 x  1 with Taillamp on Red Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyn.dat",
+    "name": "Slope Brick Curved  2 x  1 with Taillamp on Red Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d06.dat",
+    "name": "Slope Brick Curved  2 x  1 with Taillamp on Red Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dym.dat",
+    "name": "Slope Brick Curved  2 x  1 with Taillamp on Red Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477d0g.dat",
+    "name": "Slope Brick Curved  2 x  1 with White CapitalSource Logo on Red Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyp.dat",
+    "name": "Slope Brick Curved  2 x  1 with White Stripes and Black Headlamp on Red Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11477dyo.dat",
+    "name": "Slope Brick Curved  2 x  1 with White Stripes and Black Headlamp on Red Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "15672.dat",
+    "name": "Slope Plate 45  2 x  1",
+    "w": 2,
+    "h": 1,
+    "type": "plate"
+  },
+  {
+    "part": "15672dy1.dat",
+    "name": "Slope Plate 45  2 x  1 with Red Line on Black, Grey and White Background Left Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "plate"
+  },
+  {
+    "part": "15672dy0.dat",
+    "name": "Slope Plate 45  2 x  1 with Red Line on Black, Grey and White Background Right Sticker",
+    "w": 2,
+    "h": 1,
+    "type": "plate"
+  },
+  {
+    "part": "1748.dat",
+    "name": "Tile  1 x  2 Half Round",
+    "w": 1,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "15209.dat",
+    "name": "Tile  1 x  2 with  2 Teeth Vertical",
+    "w": 1,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "1126.dat",
+    "name": "Tile  1 x  2 with Rounded Ends",
+    "w": 1,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "1126pt0.dat",
+    "name": "Tile  1 x  2 with Rounded Ends with Land Rover Logo Pattern",
+    "w": 1,
+    "h": 2,
+    "type": "tile"
+  },
+  {
+    "part": "18860.dat",
+    "name": "=Brick  1 x  1 Round with Hollow Stud",
+    "w": 1,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "15570.dat",
+    "name": "=Plate  1 x  1 Round",
+    "w": 1,
+    "h": 1,
+    "type": "plate"
+  },
+  {
+    "part": "18862.dat",
+    "name": "=Slope Brick 31  1 x  1 x  0.667",
+    "w": 1,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "10238.dat",
+    "name": "=Tile  1 x  1 Round with Eye Pattern",
+    "w": 1,
+    "h": 1,
+    "type": "tile"
+  },
+  {
+    "part": "15411.dat",
+    "name": "Brick  1 x  1 with Conductive Element and Stud on Opposite Sides",
+    "w": 1,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "20310.dat",
+    "name": "Brick  1 x  1 with Scroll with Open Stud",
+    "w": 1,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "1871.dat",
+    "name": "Brick  1 x  1 x  1.333 Round Quarter Dome with Curved Top",
+    "w": 1,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "15444.dat",
+    "name": "Brick  1 x  1 x  2 with Square Hole in 1 Side",
+    "w": 1,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "14716.dat",
+    "name": "Brick  1 x  1 x  3",
+    "w": 1,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "14716d01.dat",
+    "name": "Brick  1 x  1 x  3 with \"RING ALSO\" Sign Sticker",
+    "w": 1,
+    "h": 1,
+    "type": "brick"
+  },
+  {
+    "part": "11609.dat",
+    "name": "Plate  1 x  1 Round with Five-Pointed Star Top and Pin Hole",
+    "w": 1,
+    "h": 1,
+    "type": "plate"
+  },
+  {
+    "part": "15470.dat",
+    "name": "Plate  1 x  1 Round with Swirled Top",
+    "w": 1,
+    "h": 1,
+    "type": "plate"
+  },
+  {
+    "part": "15070.dat",
+    "name": "Plate  1 x  1 with Tooth Perpendicular",
+    "w": 1,
+    "h": 1,
+    "type": "plate"
+  },
+  {
+    "part": "20482.dat",
+    "name": "Tile  1 x  1 Round with Pin and Pin Hole",
+    "w": 1,
+    "h": 1,
+    "type": "tile"
+  },
+  {
+    "part": "15712.dat",
+    "name": "Tile  1 x  1 with Clip (Thick C-Clip)",
+    "w": 1,
+    "h": 1,
+    "type": "tile"
+  },
+  {
+    "part": "12825.dat",
+    "name": "Tile  1 x  1 with Clip with Rounded Tips",
+    "w": 1,
+    "h": 1,
+    "type": "tile"
+  }
+]

@@ -1,0 +1,49 @@
+part_name,color,x,y,z
+=Brick  1 x  1 Round with Hollow Stud,green,-70,0,-70
+=Brick  1 x  1 Round with Hollow Stud,red,-50,0,-70
+=Brick  1 x  1 Round with Hollow Stud,green,-30,0,-70
+=Brick  1 x  1 Round with Hollow Stud,blue,-10,0,-70
+=Brick  1 x  1 Round with Hollow Stud,white,10,0,-70
+=Brick  1 x  1 Round with Hollow Stud,red,30,0,-70
+=Brick  1 x  1 Round with Hollow Stud,green,50,0,-70
+=Brick  1 x  1 Round with Hollow Stud,white,70,0,-70
+=Brick  1 x  1 Round with Hollow Stud,yellow,-70,0,-50
+=Brick  1 x  1 Round with Hollow Stud,black,-50,0,-50
+=Brick  1 x  1 Round with Hollow Stud,red,-30,0,-50
+Duplo Brick  1 x  3 x  2 Round Top with Cut Away Sides,black,-10,0,-30
+=Brick  1 x  1 Round with Hollow Stud,blue,10,0,-50
+=Brick  1 x  1 Round with Hollow Stud,yellow,30,0,-50
+=Brick  1 x  1 Round with Hollow Stud,blue,50,0,-50
+=Tile  1 x  2 Grille with Groove,red,70,0,-40
+=Tile  1 x  2 Grille with Groove,white,-70,0,-20
+=Slope Brick 18  2 x  1 x  0.667 Grille,yellow,-40,0,-30
+=Brick  1 x  1 Round with Hollow Stud,white,10,0,-30
+=Brick  1 x  1 Round with Hollow Stud,black,30,0,-30
+=Brick  1 x  1 Round with Hollow Stud,green,50,0,-30
+=Tile  1 x  2 Grille with Groove,black,-50,0,0
+=Brick  1 x  1 Round with Hollow Stud,green,-30,0,-10
+=Brick  1 x  1 Round with Hollow Stud,green,10,0,-10
+=Brick  1 x  1 Round with Hollow Stud,white,30,0,-10
+=Brick  1 x  1 Round with Hollow Stud,red,50,0,-10
+=Tile  1 x  2 Grille with Groove,yellow,70,0,0
+=Brick  1 x  1 Round with Hollow Stud,black,-70,0,10
+Slope Brick 45  3 x  1 Inverted Double with Inner Stopper Rings,yellow,-10,0,10
+Duplo Brick  1 x  3 x  2 Round Top with Cut Away Sides,green,30,0,30
+=Tile  1 x  2 Grille with Groove,blue,50,0,20
+=Brick  1 x  1 Round with Hollow Stud,green,-70,0,30
+=Brick  1 x  1 Round with Hollow Stud,red,-50,0,30
+=Brick  1 x  1 Round with Hollow Stud,yellow,-30,0,30
+=Brick  1 x  1 Round with Hollow Stud,red,-10,0,30
+=Tile  1 x  2 Grille with Groove,yellow,10,0,40
+=Brick  1 x  1 Round with Hollow Stud,white,70,0,30
+=Brick  1 x  1 Round with Hollow Stud,white,-70,0,50
+=Slope Brick 18  2 x  1 x  0.667 Grille,blue,-40,0,50
+=Brick  1 x  1 Round with Hollow Stud,yellow,-10,0,50
+=Brick  1 x  1 Round with Hollow Stud,white,50,0,50
+=Tile  1 x  2 Grille with Groove,black,70,0,60
+=Slope Brick 18  2 x  1 x  0.667 Grille,blue,-60,0,70
+=Brick  1 x  1 Round with Hollow Stud,black,-30,0,70
+=Brick  1 x  1 Round with Hollow Stud,blue,-10,0,70
+=Brick  1 x  1 Round with Hollow Stud,green,10,0,70
+=Brick  1 x  1 Round with Hollow Stud,black,30,0,70
+=Brick  1 x  1 Round with Hollow Stud,yellow,50,0,70

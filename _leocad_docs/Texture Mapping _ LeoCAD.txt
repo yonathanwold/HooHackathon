@@ -1,0 +1,22 @@
+GENERAL INFORMATION
+Getting StartedParts LibraryCompiling GuideLicenseVersion History
+TUTORIALS
+Basic TutorialRotation Center
+REFERENCE
+Command Line OptionsMeta CommandsTexture Mapping
+Texture Mapping
+LeoCAD supports texture-mapped primitives through the LDraw TEXMAP extension.
+Example
+One of the uses for texture mapping could be to use photos or images as reference images for your model while bu
+The planes in the image above are drawn by the use of PNG files as textures by using the following code in the file
+0 !TEXMAP START PLANAR 100 10 100 100 10 -100 -100 10 100 bottom.png4 16 100 1 -100 100 1 100 -100 1 100 -100 1 -100
+0 !TEXMAP END
+0 !TEXMAP START PLANAR -100 -200 10 100 -200 10 -100 0 10 side.png4 16 100 -200 120 100 0 120 -100 0 120 -100 -200 120
+0 !TEXMAP END
+0 !TEXMAP START PLANAR 0 -200 100 0 -200 -100 0 0 100 side.png4 16 120 -200 100 120 0 100 120 0 -100 120 -200 -100
+0 !TEXMAP END
+© LeoCAD.org
+Code GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:55 PM Texture Mapping | LeoCAD
+https://www.leocad.org/docs/texmap.html 1/1

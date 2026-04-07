@@ -1,0 +1,70 @@
+GENERAL INFORMATION
+Getting StartedParts LibraryCompiling GuideLicenseVersion History
+TUTORIALS
+Basic TutorialRotation Center
+REFERENCE
+Command Line OptionsMeta CommandsTexture Mapping
+LDraw File Meta Commands
+The following is a list of meta commands that are used by LeoCAD when saving files in LDraw format. Note that pabrackets are optional and that parameters in angle brackets are required.
+Model
+“0 !LEOCAD MODEL NAME <name>”
+Sets the name of the model.
+“0 !LEOCAD MODEL AUTHOR <name>”
+Sets the name of the model’s author.
+“0 !LEOCAD MODEL DESCRIPTION<description>”
+Sets the description of the model.
+“0 !LEOCAD MODEL COMMENT <comment>”
+Adds a line to the model’s comments section. Multiple lines are allowed and will be appended in the order th
+“0 !LEOCAD MODEL BACKGROUND COLOR <r g b>”
+Sets the model’s background to a solid color.
+“0 !LEOCAD MODEL BACKGROUND GRADIENT <!r1 g1 b1 !r2 g2 b2>”
+Sets the model’s background to a gradient.
+“0 !LEOCAD MODEL BACKGROUND IMAGE [TILE] NAME <filename>”
+Sets the model’s background to an image file (if “TILE” is specified, the image will be display in its original sizneeded, otherwise it will be stretched to fit the entire view).
+Piece
+Piece commands will apply to the first piece added to the model after they are seen.
+“0 !LEOCAD PIECE STEP_HIDE <step>”
+Stops showing the piece at a given step.
+“0 !LEOCAD PIECE HIDDEN”
+Hides the piece (can be made visible again by using the “Piece” menu).
+“0 !LEOCAD PIECE POSITION_KEY <time x y z>”“0 !LEOCAD PIECE ROTATION_KEY <time a b c d e f g h i>”
+Adds a key frame at a given time.
+“0 !LEOCAD PIECE PIVOT <x y z a b c d e f g h i>”
+Sets the pivot point of this piece.
+Camera
+Camera commands can be grouped in the same line; they do not need to be on separate lines. A camera must conposition, target position and up vector or a set of keys for those parameters.
+“0 !LEOCAD CAMERA HIDDEN”
+Hides the camera (can be made visible again by using the “Piece” menu).
+“0 !LEOCAD CAMERA ORTHOGRAPHIC”
+Sets the camera to use orthographic projection (perspective projection is used by default).
+“0 !LEOCAD CAMERA FOV <angle>”
+Sets the field of view for the camera (default: 30 degrees).
+“0 !LEOCAD CAMERA ZNEAR <distance>”
+Sets the distance of the near plane (default: 25).
+“0 !LEOCAD CAMERA ZFAR <distance>”
+Sets the distance of the far plane (default: 50000).
+“0 !LEOCAD CAMERA POSITION <x y z>”
+Sets the position of the camera.
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:55 PM Meta Commands | LeoCAD
+https://www.leocad.org/docs/meta.html 1/2
+“0 !LEOCAD CAMERA TARGET_POSITION <x y z>”
+Sets the target position.
+“0 !LEOCAD CAMERA UP_VECTOR <x y z>”
+Sets the up vector.
+“0 !LEOCAD CAMERA POSITION_KEY <time x y z>”“0 !LEOCAD CAMERA TARGET_POSITION_KEY <time x y z>”“0 !LEOCAD CAMERA UP_VECTOR_KEY <time x y z>”
+Adds a key frame at a given time.
+“0 !LEOCAD CAMERA NAME <name>”
+Creates a new camera with all the parameters listed up to this statement.
+Group
+All pieces and groups added inside a “GROUP BEGIN” and “GROUP END” block will be added as children of that gthe same name appears twice in a model, it will be considered the same group).
+“0 !LEOCAD GROUP BEGIN”
+Creates a new group if a group with the same name does not already exist and makes all pieces and groupsnext “END” command a part of this group.
+“0 !LEOCAD GROUP END”
+Marks the end of the current group and will not allow the addition of more pieces and groups (If the current ganother group, then the parent group will be the new current group).
+© LeoCAD.org
+GitHub
+ LeoCAD Download Documentation
+3/21/26, 12:55 PM Meta Commands | LeoCAD
+https://www.leocad.org/docs/meta.html 2/2

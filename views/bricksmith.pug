@@ -1,0 +1,198 @@
+extends layout
+
+block head
+  link(rel='stylesheet', href='/css/bricksmith.css')
+
+block content
+  .bricksmith
+    .hero.mb-4
+      .d-flex.flex-wrap.justify-content-between.align-items-start.gap-3
+        .me-2
+          h1.mb-2 BrickSmith AI
+          p.tagline.mb-3
+            | Design buildable LEGO sets from your collection. BrickSmith blends a prompt-driven generator, a voxel viewer, and a parts-aware planner into one hackathon-ready experience.
+          .d-flex.flex-wrap.gap-2
+            span.pill Collection-aware
+            span.pill Real parts ready
+            span.pill CSRF protected
+        .text-end
+          span.mono.small.text-uppercase.text-muted Ready for demo
+          h5.mt-2.mb-0 v0.1
+
+    .row.g-4
+      .col-lg-7
+        .card.mb-4
+          .card-body
+            h4.mb-2 Project Brief
+            p.muted.mb-3 This page is a BrickSmith prototype inside the LeoCAD app. It keeps the existing /ai/lego-builder flow and adds the BrickSmith experience at /bricksmith.
+            .divider
+            .row.g-3
+              .col-md-7
+                label.form-label(for='setSearch') Set collection search
+                input#setSearch.form-control(type='text', placeholder='Search by set name or ID')
+                .form-text.muted Demo dataset. Replace with Rebrickable for real inventory.
+              .col-md-5
+                label.form-label API keys
+                .card.card-subtle
+                  .card-body.py-2
+                    .d-flex.flex-column.gap-1
+                      if hasRebrickableKey
+                        span.text-success.mono Rebrickable: connected via server env
+                      else
+                        span.text-warning.mono Rebrickable: missing -- set REBRICKABLE_API_KEY
+                      if hasGeminiKey
+                        span.text-success.mono Gemini: connected via server env
+                      else
+                        span.text-warning.mono Gemini: missing -- set GEMINI_API_KEY
+            .row.g-3.mt-1
+              .col-md-7
+                .card.card-subtle
+                  .card-body
+                    h6.mb-2 Search results
+                    ul#searchResults.list-group.list-group-flush.small
+                      li.list-group-item.bg-transparent.text-muted No results yet.
+              .col-md-5
+                .card.card-subtle
+                  .card-body
+                    h6.mb-2 My Collection
+                    ul#collectionList.list-group.list-group-flush.small.collection-list
+                      li.list-group-item.bg-transparent.text-muted No sets added.
+
+            .divider
+
+            label.form-label(for='promptInput') Text prompt
+            textarea#promptInput.form-control(rows='3', placeholder='Describe your set idea')
+            .card.card-subtle.mt-2
+              .card-body.py-2
+                .d-flex.justify-content-between.align-items-center.prompt-history-header
+                  span.small Prompt history
+                  button#clearPromptHistory.btn.btn-ghost.btn-sm(type='button') Clear
+                ul#promptHistory.list-group.list-group-flush.small.mt-2
+                  li.list-group-item.bg-transparent.text-muted No history yet.
+            .d-flex.flex-wrap.gap-2.mt-2
+              button.btn.btn-ghost.btn-sm(type='button', data-preset='Castle') Castle
+              button.btn.btn-ghost.btn-sm(type='button', data-preset='Sports Car') Sports Car
+              button.btn.btn-ghost.btn-sm(type='button', data-preset='Space Station') Space Station
+              button.btn.btn-ghost.btn-sm(type='button', data-preset='House') House
+              button.btn.btn-ghost.btn-sm(type='button', data-preset='Train') Train
+              button.btn.btn-ghost.btn-sm(type='button', data-preset='Dragon') Dragon
+
+            .row.g-3.mt-2.align-items-center
+              .col-md-6
+                label.form-label(for='pieceCount') Piece count
+                input#pieceCount.form-range(type='range', min='30', max='500', value='180')
+                input#pieceCountInput.form-control.form-control-sm.mt-2(type='number', min='30', max='500', value='180')
+              .col-md-6
+                .stat
+                  .label Piece target
+                  .value#pieceCountValue 180
+
+            .d-flex.flex-wrap.gap-2.mt-3
+              button#generateBtn.btn.btn-brick(type='button') Generate BrickSmith build
+              button#copyPromptBtn.btn.btn-ghost(type='button') Copy prompt
+
+      .col-lg-5
+        .card.mb-4
+          .card-body
+            h4.mb-3 3D Voxel Viewer
+            .viewer
+              .viewer-overlay
+                span#viewerStatus.mono Idle -- waiting for build
+                span.mono Drag to orbit
+              canvas#viewerCanvas
+
+        .card
+          .card-body
+            h4.mb-3 Summary
+            .stat-grid
+              .stat
+                .label Set name
+                .value#summaryName TBD
+              .stat
+                .label Theme
+                .value#summaryTheme TBD
+              .stat
+                .label Difficulty
+                .value#summaryDifficulty TBD
+              .stat
+                .label Total pieces
+                .value#summaryPieces TBD
+              .stat
+                .label Estimated cost
+                .value#summaryCost TBD
+
+    .card.mt-4
+      .card-body
+        ul.nav.nav-tabs.mb-3(role='tablist')
+          li.nav-item(role='presentation')
+            button#tab-parts.nav-link.active(type='button', role='tab', data-bs-toggle='tab', data-bs-target='#pane-parts', aria-controls='pane-parts', aria-selected='true') Parts list
+          li.nav-item(role='presentation')
+            button#tab-wishlist.nav-link(type='button', role='tab', data-bs-toggle='tab', data-bs-target='#pane-wishlist', aria-controls='pane-wishlist', aria-selected='false') Wishlist
+          li.nav-item(role='presentation')
+            button#tab-tips.nav-link(type='button', role='tab', data-bs-toggle='tab', data-bs-target='#pane-tips', aria-controls='pane-tips', aria-selected='false') Build tips
+
+        .tab-content
+          #pane-parts.tab-pane.fade.show.active(role='tabpanel', aria-labelledby='tab-parts')
+            .table-responsive
+              table.table.table-dark.table-sm.mb-0
+                thead
+                  tr
+                    th Part
+                    th Color
+                    th Qty
+                    th Est. unit price
+                    th Line total
+                tbody#partsTable
+                  tr
+                    td(colspan='5', class='text-muted') Generate a build to see parts.
+
+          #pane-wishlist.tab-pane.fade(role='tabpanel', aria-labelledby='tab-wishlist')
+            p.muted.mb-3 Export your wishlist for BrickLink or a spreadsheet.
+            .d-flex.flex-wrap.gap-2
+              a#exportXml.btn.btn-ghost(href='#', download='bricksmith-wishlist.xml') Download BrickLink XML
+              a#exportCsv.btn.btn-ghost(href='#', download='bricksmith-wishlist.csv') Download CSV
+
+          #pane-tips.tab-pane.fade(role='tabpanel', aria-labelledby='tab-tips')
+            .row.g-3
+              .col-md-4
+                .feature-card
+                  h6 Phase 1
+                  p.muted Gather base plates and core structure bricks. Dry fit the footprint.
+              .col-md-4
+                .feature-card
+                  h6 Phase 2
+                  p.muted Build the silhouette and major sections. Lock in the color blocking.
+              .col-md-4
+                .feature-card
+                  h6 Phase 3
+                  p.muted Add details, texture, and final accents. Review stability.
+            .divider
+            ul.mb-0
+              li Keep heavier bricks toward the base.
+              li Group similar colors for faster assembly.
+              li Check connection strength before adding plates.
+              li Photograph each stage for replayable instructions.
+
+    .card.mt-4
+      .card-body
+        h4.mb-3 Platform Features
+        .feature-grid
+          .feature-card
+            h6 Auth System
+            p.muted Email login, OAuth, 2FA, magic links, and WebAuthn ready.
+          .feature-card
+            h6 AI Features
+            p.muted LLM classifier, camera analysis, RAG, and AI agent modules.
+          .feature-card
+            h6 API Demos
+            p.muted Charts, maps, payments, media, and file upload demos.
+          .feature-card
+            h6 Security Stack
+            p.muted CSRF, rate limits, XSS headers, and secure sessions.
+
+block scripts
+  script.
+    window.BRICKSMITH_CSRF = '#{_csrf}';
+  script(src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js')
+  script(src='https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js')
+  script(src='/js/bricksmith.js')
